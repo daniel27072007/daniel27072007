@@ -5,8 +5,8 @@ My goal is to build scalable applications, continuously improve my coding skills
 
 ## Tech Stack & Tools
 - **Languages:** JavaScript, C++, C
-- **Front-End:** HTML5, CSS3, JavaScript, React
-- **Back-End:** Node.js, MongoDB
+- **Front-End:** HTML5, CSS3, JavaScript, React, Tailwind
+- **Back-End:** Node.js, MongoDB, Firebase
 - **Tools:** Git, GitHub
 
 ## Featured Projects
