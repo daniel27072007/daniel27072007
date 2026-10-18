@@ -5,14 +5,14 @@ My goal is to build scalable applications, continuously improve my coding skills
 
 ## Tech Stack & Tools
 - **Languages:** JavaScript, C++, C
-- **Front-End:** HTML5, CSS3, JavaScript, React, Tailwind
+- **Front-End:** HTML5, CSS3, JavaScript, React, Tailwind, TypeScript
 - **Back-End:** Node.js, MongoDB, Firebase
 - **Tools:** Git, GitHub
 
 ## Featured Projects
-- **[Backend Projects](https://github.com/daniel27072007/Backend-roadmap-projects):** A collection of backend challenges completed from roadmap.sh.
-- **[Frontend Projects](https://github.com/daniel27072007/Frontend-roadmap-projects):** Responsive web projects tracking my frontend evolution.
-- **[University Projects (UPX)](https://github.com/daniel27072007/UPX-projects):** Group projects developed during my Computer Engineering degree.
+- **[Backend Projects](https://github.com/stars/daniel27072007/lists/mirror-projects-backend):** A collection of backend mirror projects that show real life things i can do.
+- **[Frontend Projects](https://github.com/stars/daniel27072007/lists/mirror-projects-frontend):** Responsive mirror web projects tracking my frontend skills.
+- **[University Projects](https://github.com/stars/daniel27072007/lists/bachelor-in-computer-engineering):** Group projects & classes code lessons developed during my Computer Engineering degree.
 
 ## Connect with me
 - **LinkedIn:** [Daniel Belculfine](https://www.linkedin.com/in/daniel-belculfine-2905253b3/)
