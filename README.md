@@ -1,19 +1,27 @@
 # Hi, I'm Daniel Belculfine
 
-I am a Computer Engineering student at UniFacens (Brazil) with a passion for software development. 
-My goal is to build scalable applications, continuously improve my coding skills, and collaborate on international projects.
+I am a Computer Engineering student at UniFacens (Brazil) with a strong passion for full-stack software development, API architecture, reactive UI state management, and real-time systems. 
 
-## Tech Stack & Tools
-- **Languages:** JavaScript, C++, C
-- **Front-End:** HTML5, CSS3, JavaScript, React, Tailwind, TypeScript
-- **Back-End:** Node.js, MongoDB, Firebase
-- **Tools:** Git, GitHub
+My goal is to build secure, scalable applications, continuously refine my engineering skills, and collaborate on high-impact international projects.
 
-## Featured Projects
-- **[Backend Projects](https://github.com/stars/daniel27072007/lists/mirror-projects-backend):** A collection of backend mirror projects that show real life things i can do.
-- **[Frontend Projects](https://github.com/stars/daniel27072007/lists/mirror-projects-frontend):** Responsive mirror web projects tracking my frontend skills.
-- **[University Projects](https://github.com/stars/daniel27072007/lists/bachelor-in-computer-engineering):** Group projects & classes code lessons developed during my Computer Engineering degree.
+## Tech Stack & Technical Capabilities
+
+- **Languages:** JavaScript (ES6+), TypeScript (v6), C++, C, HTML5, CSS3
+- **Front-End:** React 19, Vite (v8), Tailwind CSS (v4), Shadcn UI, Dynamic UI Recharts (v3), Drag & Drop Integration (@hello-pangea/dnd), React Hook Form, Zod
+- **Back-End & BaaS:** Node.js, Express.js (v5), Firebase (Authentication & Cloud Firestore Real-Time Snapshots), RESTful API Design, MVC Architecture, Stripe API (Checkout, Subscriptions, Webhooks), JWT Security, Bcrypt
+- **Databases & Persistence:** MongoDB, Mongoose ODM, Cloud Firestore NoSQL Architecture, Local Storage Persistence
+- **Testing & QA:** Jest, Supertest Integration Testing, End-to-End Route Validation
+- **Automation & Tooling:** Git, GitHub, Vite, NPM, Cron Jobs (node-cron), PDFKit, SendGrid API, Stripe CLI, CLI Development
+
+## Featured Projects & Collections
+
+- **[Frontend Projects](https://github.com/stars/daniel27072007/lists/mirror-projects-frontend):** Responsive, high-performance web applications demonstrating complex UI state isolation and interactive data visualization.
+- **[Backend Projects](https://github.com/stars/daniel27072007/lists/mirror-projects-backend):** A curated collection of production-grade Node.js/Express, database, security, and ETL microservices.
+- **[Fullstack Projects](https://github.com/stars/daniel27072007/lists/mirror-projects-fullstack):** Two majors projects that group-up everything that i learned at backend and frontend also adding new capabilities
+- **[University Projects](https://github.com/stars/daniel27072007/lists/bachelor-in-computer-engineering):** Algorithms, data structures, and course projects developed during my Computer Engineering degree.
 
 ## Connect with me
+
 - **LinkedIn:** [Daniel Belculfine](https://www.linkedin.com/in/daniel-belculfine-2905253b3/)
 - **Email:** daniel.belculfine@gmail.com
+- **GitHub:** [daniel27072007](https://github.com/daniel27072007)
